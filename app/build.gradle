@@ -1,11 +1,11 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+
 }
 
 android {
     compileSdk 31
-
     defaultConfig {
         applicationId "com.example.camapp"
         minSdk 21
